@@ -1159,6 +1159,10 @@ section {
   background: url("../img/contato_inova-1.png") top 190px left 180px no-repeat;
   position: relative;
 }
+.contact .img{
+  size: 7em;
+
+}
 
 .contact:before {
   content: "";
